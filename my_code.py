@@ -5,3 +5,7 @@ def math(self, number):
         if number in range(20, 50):
             my_list.append(number)
             return 100
+        
+   
+n = Homework()
+print(n.math(35))
